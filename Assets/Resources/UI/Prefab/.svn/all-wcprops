@@ -1,0 +1,509 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/sanguo/!svn/ver/3932/client/trunk/Assets/Resources/UI/Prefab
+END
+UI_SELECT_LEVEL_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sanguo/!svn/ver/3624/client/trunk/Assets/Resources/UI/Prefab/UI_SELECT_LEVEL_Prefab.prefab
+END
+UI_LEVEL_INFO_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sanguo/!svn/ver/845/client/trunk/Assets/Resources/UI/Prefab/UI_LEVEL_INFO_Prefab.prefab.meta
+END
+LineUp.meta
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sanguo/!svn/ver/2247/client/trunk/Assets/Resources/UI/Prefab/LineUp.meta
+END
+UILevelItem.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/sanguo/!svn/ver/1522/client/trunk/Assets/Resources/UI/Prefab/UILevelItem.prefab
+END
+UIEquipmentItem_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sanguo/!svn/ver/1039/client/trunk/Assets/Resources/UI/Prefab/UIEquipmentItem_Prefab.prefab.meta
+END
+DebugGameSceneUI.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sanguo/!svn/ver/3288/client/trunk/Assets/Resources/UI/Prefab/DebugGameSceneUI.prefab
+END
+UIMessageAlert.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/sanguo/!svn/ver/1540/client/trunk/Assets/Resources/UI/Prefab/UIMessageAlert.prefab.meta
+END
+UI_LIVEUP_PANEL_PREFAB.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sanguo/!svn/ver/2169/client/trunk/Assets/Resources/UI/Prefab/UI_LIVEUP_PANEL_PREFAB.prefab
+END
+Battle.meta
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sanguo/!svn/ver/2451/client/trunk/Assets/Resources/UI/Prefab/Battle.meta
+END
+UI_BATTLE_WIN_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sanguo/!svn/ver/2531/client/trunk/Assets/Resources/UI/Prefab/UI_BATTLE_WIN_Prefab.prefab
+END
+UI_BLOODUP_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sanguo/!svn/ver/675/client/trunk/Assets/Resources/UI/Prefab/UI_BLOODUP_Prefab.prefab.meta
+END
+UI_SELECT_LEVEL_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sanguo/!svn/ver/752/client/trunk/Assets/Resources/UI/Prefab/UI_SELECT_LEVEL_Prefab.prefab.meta
+END
+Email.meta
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/sanguo/!svn/ver/2033/client/trunk/Assets/Resources/UI/Prefab/Email.meta
+END
+UI_BLOODBAOJI_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sanguo/!svn/ver/3581/client/trunk/Assets/Resources/UI/Prefab/UI_BLOODBAOJI_Prefab.prefab
+END
+UI_MATERIAL_DETAIL_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sanguo/!svn/ver/1048/client/trunk/Assets/Resources/UI/Prefab/UI_MATERIAL_DETAIL_Prefab.prefab.meta
+END
+UI_LOTTERY.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sanguo/!svn/ver/2227/client/trunk/Assets/Resources/UI/Prefab/UI_LOTTERY.prefab.meta
+END
+UI_SWEEP_LEVEL_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sanguo/!svn/ver/2859/client/trunk/Assets/Resources/UI/Prefab/UI_SWEEP_LEVEL_Prefab.prefab
+END
+UIActorComp_prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sanguo/!svn/ver/1039/client/trunk/Assets/Resources/UI/Prefab/UIActorComp_prefab.prefab.meta
+END
+UISweepInfoItem_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sanguo/!svn/ver/2859/client/trunk/Assets/Resources/UI/Prefab/UISweepInfoItem_Prefab.prefab
+END
+Guild.meta
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/sanguo/!svn/ver/2983/client/trunk/Assets/Resources/UI/Prefab/Guild.meta
+END
+LiveUpIconRole.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sanguo/!svn/ver/1460/client/trunk/Assets/Resources/UI/Prefab/LiveUpIconRole.prefab
+END
+UIAssetComp_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sanguo/!svn/ver/1039/client/trunk/Assets/Resources/UI/Prefab/UIAssetComp_Prefab.prefab.meta
+END
+UI_BLOOD_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/sanguo/!svn/ver/675/client/trunk/Assets/Resources/UI/Prefab/UI_BLOOD_Prefab.prefab.meta
+END
+UI_LOTTERY_ITEM.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sanguo/!svn/ver/2227/client/trunk/Assets/Resources/UI/Prefab/UI_LOTTERY_ITEM.prefab.meta
+END
+User.meta
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sanguo/!svn/ver/2138/client/trunk/Assets/Resources/UI/Prefab/User.meta
+END
+UISweepDone_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sanguo/!svn/ver/2859/client/trunk/Assets/Resources/UI/Prefab/UISweepDone_Prefab.prefab
+END
+UI_SWEEP_LEVEL_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sanguo/!svn/ver/852/client/trunk/Assets/Resources/UI/Prefab/UI_SWEEP_LEVEL_Prefab.prefab.meta
+END
+UI_LOTTERY_ITEM.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sanguo/!svn/ver/2227/client/trunk/Assets/Resources/UI/Prefab/UI_LOTTERY_ITEM.prefab
+END
+UILiveUpPopur.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sanguo/!svn/ver/2234/client/trunk/Assets/Resources/UI/Prefab/UILiveUpPopur.prefab.meta
+END
+UI_BLOODJUMB_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sanguo/!svn/ver/1027/client/trunk/Assets/Resources/UI/Prefab/UI_BLOODJUMB_Prefab.prefab.meta
+END
+UI_BLOODUP_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sanguo/!svn/ver/3841/client/trunk/Assets/Resources/UI/Prefab/UI_BLOODUP_Prefab.prefab
+END
+Rank.meta
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sanguo/!svn/ver/2619/client/trunk/Assets/Resources/UI/Prefab/Rank.meta
+END
+UI_LOTTERY_RESULT.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sanguo/!svn/ver/2227/client/trunk/Assets/Resources/UI/Prefab/UI_LOTTERY_RESULT.prefab.meta
+END
+UI_EQUIPMENT_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/sanguo/!svn/ver/2859/client/trunk/Assets/Resources/UI/Prefab/UI_EQUIPMENT_Prefab.prefab
+END
+UI_LIVEUP_PANEL_PREFAB.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sanguo/!svn/ver/2234/client/trunk/Assets/Resources/UI/Prefab/UI_LIVEUP_PANEL_PREFAB.prefab.meta
+END
+UI_BATTLE_LOAD_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sanguo/!svn/ver/2859/client/trunk/Assets/Resources/UI/Prefab/UI_BATTLE_LOAD_Prefab.prefab
+END
+Role.meta
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sanguo/!svn/ver/2138/client/trunk/Assets/Resources/UI/Prefab/Role.meta
+END
+UI_BLOODJUMB_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/sanguo/!svn/ver/3514/client/trunk/Assets/Resources/UI/Prefab/UI_BLOODJUMB_Prefab.prefab
+END
+UI_LOGIN.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/sanguo/!svn/ver/1372/client/trunk/Assets/Resources/UI/Prefab/UI_LOGIN.prefab.meta
+END
+UI_BLOODMIDDLE_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sanguo/!svn/ver/1027/client/trunk/Assets/Resources/UI/Prefab/UI_BLOODMIDDLE_Prefab.prefab
+END
+UI_EQUIPMENT_DETAIL_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sanguo/!svn/ver/1018/client/trunk/Assets/Resources/UI/Prefab/UI_EQUIPMENT_DETAIL_Prefab.prefab.meta
+END
+Achieve.meta
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/sanguo/!svn/ver/2198/client/trunk/Assets/Resources/UI/Prefab/Achieve.meta
+END
+UISweepDone_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sanguo/!svn/ver/1138/client/trunk/Assets/Resources/UI/Prefab/UISweepDone_Prefab.prefab.meta
+END
+UI_MATERIAL_DETAIL_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sanguo/!svn/ver/1467/client/trunk/Assets/Resources/UI/Prefab/UI_MATERIAL_DETAIL_Prefab.prefab
+END
+UI_SCENE_LOAD_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sanguo/!svn/ver/3624/client/trunk/Assets/Resources/UI/Prefab/UI_SCENE_LOAD_Prefab.prefab.meta
+END
+UI_LOTTERY_RESULT.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sanguo/!svn/ver/2258/client/trunk/Assets/Resources/UI/Prefab/UI_LOTTERY_RESULT.prefab
+END
+Battle_Role_Skill_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/sanguo/!svn/ver/863/client/trunk/Assets/Resources/UI/Prefab/Battle_Role_Skill_Prefab.prefab.meta
+END
+UI_BATTLE_LOSE_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sanguo/!svn/ver/1554/client/trunk/Assets/Resources/UI/Prefab/UI_BATTLE_LOSE_Prefab.prefab.meta
+END
+Shop.meta
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sanguo/!svn/ver/2048/client/trunk/Assets/Resources/UI/Prefab/Shop.meta
+END
+UIEquipmentItem_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sanguo/!svn/ver/2859/client/trunk/Assets/Resources/UI/Prefab/UIEquipmentItem_Prefab.prefab
+END
+UIActorComp_prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sanguo/!svn/ver/2859/client/trunk/Assets/Resources/UI/Prefab/UIActorComp_prefab.prefab
+END
+UI_LOGIN.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/sanguo/!svn/ver/3932/client/trunk/Assets/Resources/UI/Prefab/UI_LOGIN.prefab
+END
+UI_EQUIPMENT_DETAIL_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sanguo/!svn/ver/2859/client/trunk/Assets/Resources/UI/Prefab/UI_EQUIPMENT_DETAIL_Prefab.prefab
+END
+Plot.meta
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sanguo/!svn/ver/2849/client/trunk/Assets/Resources/UI/Prefab/Plot.meta
+END
+Resolve.meta
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/sanguo/!svn/ver/2138/client/trunk/Assets/Resources/UI/Prefab/Resolve.meta
+END
+Battle_Role_Skill_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sanguo/!svn/ver/863/client/trunk/Assets/Resources/UI/Prefab/Battle_Role_Skill_Prefab.prefab
+END
+UILevelItem.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sanguo/!svn/ver/752/client/trunk/Assets/Resources/UI/Prefab/UILevelItem.prefab.meta
+END
+UI_BATTLE_LOSE_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sanguo/!svn/ver/2531/client/trunk/Assets/Resources/UI/Prefab/UI_BATTLE_LOSE_Prefab.prefab
+END
+Main.meta
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sanguo/!svn/ver/2133/client/trunk/Assets/Resources/UI/Prefab/Main.meta
+END
+UI_BATTLE_LOAD_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sanguo/!svn/ver/1701/client/trunk/Assets/Resources/UI/Prefab/UI_BATTLE_LOAD_Prefab.prefab.meta
+END
+Common.meta
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sanguo/!svn/ver/2073/client/trunk/Assets/Resources/UI/Prefab/Common.meta
+END
+UI_BLOODMIDDLE_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sanguo/!svn/ver/675/client/trunk/Assets/Resources/UI/Prefab/UI_BLOODMIDDLE_Prefab.prefab.meta
+END
+UISweepInfoItem_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sanguo/!svn/ver/1039/client/trunk/Assets/Resources/UI/Prefab/UISweepInfoItem_Prefab.prefab.meta
+END
+Bag.meta
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/sanguo/!svn/ver/2138/client/trunk/Assets/Resources/UI/Prefab/Bag.meta
+END
+DebugGameSceneUI.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sanguo/!svn/ver/1598/client/trunk/Assets/Resources/UI/Prefab/DebugGameSceneUI.prefab.meta
+END
+UI_BLOODCHG_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sanguo/!svn/ver/1472/client/trunk/Assets/Resources/UI/Prefab/UI_BLOODCHG_Prefab.prefab.meta
+END
+Tip.meta
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/sanguo/!svn/ver/2140/client/trunk/Assets/Resources/UI/Prefab/Tip.meta
+END
+LiveUpIconRole.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sanguo/!svn/ver/700/client/trunk/Assets/Resources/UI/Prefab/LiveUpIconRole.prefab.meta
+END
+UILiveUpPopur.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/sanguo/!svn/ver/1869/client/trunk/Assets/Resources/UI/Prefab/UILiveUpPopur.prefab
+END
+UI_BATTLE_WIN_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sanguo/!svn/ver/1554/client/trunk/Assets/Resources/UI/Prefab/UI_BATTLE_WIN_Prefab.prefab.meta
+END
+GM.meta
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/sanguo/!svn/ver/2138/client/trunk/Assets/Resources/UI/Prefab/GM.meta
+END
+UI_BLOODCHG_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sanguo/!svn/ver/3006/client/trunk/Assets/Resources/UI/Prefab/UI_BLOODCHG_Prefab.prefab
+END
+UI_LEVEL_INFO_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sanguo/!svn/ver/2859/client/trunk/Assets/Resources/UI/Prefab/UI_LEVEL_INFO_Prefab.prefab
+END
+Battle_Role_Avatar_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sanguo/!svn/ver/863/client/trunk/Assets/Resources/UI/Prefab/Battle_Role_Avatar_Prefab.prefab.meta
+END
+UI_LOTTERY.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/sanguo/!svn/ver/2227/client/trunk/Assets/Resources/UI/Prefab/UI_LOTTERY.prefab
+END
+UI_BLOODBAOJI_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sanguo/!svn/ver/3006/client/trunk/Assets/Resources/UI/Prefab/UI_BLOODBAOJI_Prefab.prefab.meta
+END
+UI_EQUIPMENT_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sanguo/!svn/ver/1018/client/trunk/Assets/Resources/UI/Prefab/UI_EQUIPMENT_Prefab.prefab.meta
+END
+UI_SCENE_LOAD_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sanguo/!svn/ver/3932/client/trunk/Assets/Resources/UI/Prefab/UI_SCENE_LOAD_Prefab.prefab
+END
+Battle_Role_Avatar_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sanguo/!svn/ver/863/client/trunk/Assets/Resources/UI/Prefab/Battle_Role_Avatar_Prefab.prefab
+END
+UIMessageAlert.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sanguo/!svn/ver/3596/client/trunk/Assets/Resources/UI/Prefab/UIMessageAlert.prefab
+END
+UI_BLOOD_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sanguo/!svn/ver/735/client/trunk/Assets/Resources/UI/Prefab/UI_BLOOD_Prefab.prefab
+END
+Message.meta
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/sanguo/!svn/ver/2140/client/trunk/Assets/Resources/UI/Prefab/Message.meta
+END
+UIAssetComp_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sanguo/!svn/ver/2859/client/trunk/Assets/Resources/UI/Prefab/UIAssetComp_Prefab.prefab
+END
+Arena.meta
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/sanguo/!svn/ver/3245/client/trunk/Assets/Resources/UI/Prefab/Arena.meta
+END

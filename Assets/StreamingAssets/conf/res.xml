@@ -1,0 +1,11 @@
+<configs>
+	<!--ui-->
+
+	<object id="UI_LOTTERY" class="TestUIHolder" parent="aBaseSprite" locate="UI_Lottery" />
+
+	<!--
+	<object id="UI_LOTTERY2" class="TestUIHolder" parent="aBaseSprite" locate="UI_Lottery2" />
+	-->
+	<!--model-->
+
+</configs>

@@ -1,0 +1,46 @@
+<!-- xml解析与XMLParser有关， 因为是文本处理， 所以xml内容里不支持\t等制符号 例如tab对齐 都则会出错 -->
+<!-- arg或者property中 使用value 必须指定Type, 并且不能使用泛型...(等待优化) -->
+ <configs> 
+ 	<!--游戏初始化项目-->
+	<object id="initObject" abstract="true" lazy-init="false" scope="singleton"/>
+	<!--单例对像（延迟生成）-->
+	<object id="singleObject" abstract="true" lazy-init="true" scope="singleton"/>
+	<object id="protoObject" abstract="true" lazy-init="true" scope="prototype"/>
+	
+	<object id="baseFile" class="Dylib.File.File" parent="protoObject">
+		<constructor_arg value=""/>
+	</object>
+	<object id="textFile" class="Dylib.File.TextFile" parent="baseFile" />
+	<object id="ABFile" class="Dylib.File.ABFile" parent="baseFile" />
+	
+	<object id="aBaseSprite" abstract="true" class="" scope="protoObject"/>
+	<object id="platAware" class="Dylib.GamePlatAware" parent="initObject">
+	<!--<method name="UpdateStatus">
+			<method_arg value="defaultStatus"/>
+		</method>-->
+	</object>
+	
+	<object id="gameModel" class="TheGameModel" parent="initObject"/>
+	<object id="userData" class="UserData" parent="protoObject"/>
+	<object id="uiAware" class="Dylib.UIAware" parent="initObject"/>
+	<object id="resAware" class="Dylib.ResAware" parent="initObject"/>
+
+	<object id="eventRouter" class="TheEventRouter" parent="initObject"/>
+
+	<!---<object id="event" class="EventMgr" parent="initObject"/>-->
+	<!--<object id="baseStatus" class="">
+	<object id="defaultStatus">-->
+
+	<object id="test1" parent="textFile">
+		<constructor_arg index="1" value="base.xml" />
+	</object>
+	<object id="test2" parent="ABFile">
+		<constructor_arg index="1" value="UI_LOTTERY.assetbundle" />
+	</object>
+	<object id="test3" parent="ABFile">
+		<constructor_arg index="1" value="UI_LOTTERY2.assetbundle" />
+	</object>
+	
+<!--	<object id="aUILottery" class=""> -->
+
+</configs>

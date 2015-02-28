@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sanguo/!svn/ver/3853/client/trunk/Assets/Resources/UI/Prefab/Guild
+END
+GuildJob.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/sanguo/!svn/ver/3212/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildJob.prefab.meta
+END
+Tab_Prefab.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sanguo/!svn/ver/2983/client/trunk/Assets/Resources/UI/Prefab/Guild/Tab_Prefab.prefab
+END
+GuildApplyListItem.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sanguo/!svn/ver/3853/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildApplyListItem.prefab
+END
+MemberItem.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sanguo/!svn/ver/3853/client/trunk/Assets/Resources/UI/Prefab/Guild/MemberItem.prefab
+END
+GuildJobRename.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sanguo/!svn/ver/3212/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildJobRename.prefab
+END
+GuildModifyDec.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sanguo/!svn/ver/3181/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildModifyDec.prefab
+END
+GuildChangeJob.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sanguo/!svn/ver/3227/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildChangeJob.prefab.meta
+END
+MemberTransferItem.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sanguo/!svn/ver/3853/client/trunk/Assets/Resources/UI/Prefab/Guild/MemberTransferItem.prefab
+END
+GuildTransfer.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sanguo/!svn/ver/3252/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildTransfer.prefab.meta
+END
+GuildMain.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sanguo/!svn/ver/2983/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildMain.prefab.meta
+END
+MyGuild.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sanguo/!svn/ver/2983/client/trunk/Assets/Resources/UI/Prefab/Guild/MyGuild.prefab.meta
+END
+GuildJob.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sanguo/!svn/ver/3220/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildJob.prefab
+END
+GuildManage.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sanguo/!svn/ver/3060/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildManage.prefab.meta
+END
+GuildListItem.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sanguo/!svn/ver/3078/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildListItem.prefab.meta
+END
+GuildMemberManageListItem.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sanguo/!svn/ver/3113/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildMemberManageListItem.prefab.meta
+END
+GuildChangeJob.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sanguo/!svn/ver/3237/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildChangeJob.prefab
+END
+GuildSet.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/sanguo/!svn/ver/3140/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildSet.prefab.meta
+END
+GuildMain.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sanguo/!svn/ver/3060/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildMain.prefab
+END
+GuildTransfer.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/sanguo/!svn/ver/3320/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildTransfer.prefab
+END
+GuildApplyListItem.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sanguo/!svn/ver/3092/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildApplyListItem.prefab.meta
+END
+MyGuild.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/sanguo/!svn/ver/3220/client/trunk/Assets/Resources/UI/Prefab/Guild/MyGuild.prefab
+END
+Tab_Prefab.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sanguo/!svn/ver/2983/client/trunk/Assets/Resources/UI/Prefab/Guild/Tab_Prefab.prefab.meta
+END
+MemberItem.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sanguo/!svn/ver/3021/client/trunk/Assets/Resources/UI/Prefab/Guild/MemberItem.prefab.meta
+END
+GuildJobRename.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sanguo/!svn/ver/3212/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildJobRename.prefab.meta
+END
+GuildManage.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sanguo/!svn/ver/3134/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildManage.prefab
+END
+GuildModifyDec.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sanguo/!svn/ver/3162/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildModifyDec.prefab.meta
+END
+GuildListItem.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/sanguo/!svn/ver/3853/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildListItem.prefab
+END
+MemberTransferItem.prefab.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sanguo/!svn/ver/3252/client/trunk/Assets/Resources/UI/Prefab/Guild/MemberTransferItem.prefab.meta
+END
+GuildSet.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sanguo/!svn/ver/3194/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildSet.prefab
+END
+GuildMemberManageListItem.prefab
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sanguo/!svn/ver/3853/client/trunk/Assets/Resources/UI/Prefab/Guild/GuildMemberManageListItem.prefab
+END

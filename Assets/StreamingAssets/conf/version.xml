@@ -1,0 +1,5 @@
+<configs> 
+	<object id="Main" version="1.0"/>
+	<object id="UI_LOTTERY" version="1.0"/>
+	<object id="UI_LOTTERY2" version="1.0"/>
+</configs>
